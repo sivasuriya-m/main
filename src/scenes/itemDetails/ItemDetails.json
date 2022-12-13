@@ -1,0 +1,74 @@
+[
+  {
+    "id" : 1,
+    "img1" : "./img/women1a.jpg",
+    "img2" : "./img/women1c.png",
+    "img3" : "./img/women1d.png",
+    "img4" : "./img/women1a.png",
+    "title"  : "Black Hoodie",
+    "shortDes" : "it is just awesome",
+    "oldPrice" : 1700 ,
+    "price" : 1650
+  },
+
+  {
+    "id" : 2,
+    "img1" : "./img/women2a.jpg",
+    "img2" : "./img/women2b.png",
+    "img3" : "./img/women2c.png",
+    "img4" : "./img/women2d.png",
+    "title"  : "Long Skirt",
+    "shortDes" : "It is just awesome",
+    "oldPrice": 1700,
+    "price": 1550
+  },
+
+  {
+    "id" : 3,
+    "img1" : "./img/women3a.jpg",
+    "img2" : "./img/women3b.png",
+    "img3" : "./img/women3c.png",
+    "img4" : "./img/women3d.png",
+    "title"  : "Girls Top",
+    "shortDes" : "It is just awesome",
+    "oldPrice":1700 ,
+    "price":1450
+  },
+
+  {
+    "id" : 4,
+    "img1" : "./img/women4a.png",
+    "img2" : "./img/women4b.png",
+    "img3" : "./img/women4c.png",
+    "img4" : "./img/women4d.png",
+    "title"  : "Jacket",
+    "shortDes" : "It is just awesome",
+    "oldPrice":2000 ,
+     "price": 1850
+  },
+
+  {
+    "id" : 5,
+    "img1" : "./img/women5a.png",
+    "img2" : "./img/women5b.png",
+    "img3" : "./img/women5c.png",
+    "img4" : "./img/women5d.png",
+    "title"  : "Shirt Attached With Trouser",
+    "shortDes" : "It is just awesome",
+    "oldPrice": 2500,
+    "price":2250
+  },
+
+  {
+    "id" : 6,
+    "img1" : "./img/women6a.png",
+    "img2" : "./img/women6b.png",
+    "img3" : "./img/women6c.png",
+    "img4" : "./img/women6d.png",
+    "title"  : "Short jersy Top",
+    "shortDes" : "It is just awesome",
+    "oldPrice": 2600,
+    "price":2425
+  }
+
+]
